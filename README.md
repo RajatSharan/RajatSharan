@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on 
 	- <a href="https://github.com/stars/rajatt95/lists/cypress-automation-frameworks"> <b> <i> Cypress Automation Frameworks </i> </b> </a>
-- 👨‍💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat Github Profile</b></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/RajatSharan"><b>Rajat Github Profile</b></a>
 
 - 📫 How to reach me **errajatsharan@gmail.com** and <a href="https://github.com/RajatSharan/"> <b> Rajat Github Page</b></a>
 
