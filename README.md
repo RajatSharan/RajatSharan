@@ -15,7 +15,7 @@
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1CDKcHCxo6tkTQeRjIDmt9iSxDc1RWMu4/view?usp=sharing"><b>RajatSharan_SoftwareTestEngineer</b></a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="linkedin.com/in/rajat-sharan-15a19244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-v-3b0685128/" height="30" width="40" /></a></p>
+<p align="left"> <a href=linkedin.com/in/rajat-sharan-15a19244 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-v-3b0685128/" height="30" width="40" /></a></p>
 -------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
