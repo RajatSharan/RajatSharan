@@ -5,6 +5,8 @@
 	 <b> Playwright JS Automation Testing from Scratch with Framework </b> </a>
 	 and <a href ="https://www.udemy.com/course/rest-api-testing-with-karate-framework//">
 	<b> REST API Testing with RestAssured </b> </a>
+	
+- 📆 Looking for contributing to Software Quality Assurance with expertise in Automation and Manual Testing based projects
 
 - 👯 I’m looking to collaborate on 
 	<br>  -  <a href="https://github.com/RajatSharan/Playwright_Automation"> <i> <b>Playwright</b> Automation Frameworks </i> </a>
