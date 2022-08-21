@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Sharan </h1>
-<h3 align="center">Rajat Sharan  | QA Engineer| 8+ Years EXP. | CSM®| ISTQB®</h3>
+<h3 align="center">Rajat Sharan  | QA Engineer| 8+ Years EXP. | CSM®| ISTQB® |CSPO®</h3>
 								
 - 🌱 I’m currently learning <a href ="https://www.udemy.com/course/playwright-tutorials-automation-testing/">
 	 <b> Playwright JS Automation Testing from Scratch with Framework </b> </a>
