@@ -15,6 +15,7 @@
 	<br>  -  <a href="https://github.com/RajatSharan/Rest_Assured"> <i> <b>Rest_Assured</b> Automation Frameworks </i> </a>
 	<br>  -  <a href="https://github.com/RajatSharan/Playwright_Automation"> <i> <b>Playwright</b> Automation Frameworks </i> </a>
 	<br>  -  <a href="https://github.com/RajatSharan/WebDriverIO-Framework"> <i> <b>WebDriverIO</b> Automation Frameworks </i> </a>
+ 	<br>  -  <a href="https://github.com/RajatSharan/Selenium-Webdriver-with-PYTHON-from-Scratch-Frameworks"> <i> <b>Selenium-Webdriver-with-PYTHON-from-Scratch-Frameworks</b> Automation Frameworks </i> </a>
 
 - 🤝 I’m looking for help with [Test Automation Frameworks Development (Web, Mobile and API)](https://github.com/RajatSharan?tab=repositories)
 
