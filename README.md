@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **errajatsharan@gmail.com** and <a href="https://github.com/RajatSharan/"> <b> Rajat Github Page</b></a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/0Bwfg6aZhAkj9ODBuMWFaSUdfems?resourcekey=0-8tWzKH3bL7gG8ST6gOirfw"><b>RajatSharan_Test Analyst</b></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1_mRBtjKVVnhRFO_8ILX3dY6YKoig1ZjU/view?usp=drive_link"><b>RajatSharan_Test Analyst</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
