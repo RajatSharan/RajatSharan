@@ -4,8 +4,6 @@
                    🌐 Passionate about delivering seamless user experiences with efficient test solutions.
                    📈 Agile advocate | API tester | Quality enthusiast.
 </h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatsharan" alt="rajatsharan" /></a> </p>
-
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on automation frameworks.
 - 🌱 I’m learning advanced CI/CD practices.
