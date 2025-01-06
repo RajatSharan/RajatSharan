@@ -3,8 +3,7 @@
 </h3>
 👨‍💻 About Me
 <br> 🔭 I’m currently working on automation frameworks.
-<br> 🌱 I’m learning advanced CI/CD practices.
-<br> 👯 I’m looking to collaborate on open-source QA projects.
+<br> 🌱 I’m learning Playwright with Typescript from Scratch + Frameworks
 <br> ⚡ Fun fact: I love debugging as much as coding!
 
 ## 🛠️ Skills & Tools
