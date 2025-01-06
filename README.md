@@ -29,7 +29,7 @@
 
 📫 How to reach me **errajatsharan@gmail.com** and <a href="https://github.com/RajatSharan/"> <b> Rajat Github Page</b></a>
 
-📄 Know about my experiences <a href="https://drive.google.com/drive/u/1/folders/1YhpGw-HGQu2q5Vzrtf0_YJBZF4pD4xLr"><b>RajatSharan_Test Analyst</b></a>
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1D_9X4UMOcD9lcuTWvpDPomcQucZRKKNB/view?usp=sharing"><b>RajatSharan_Test Analyst</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
