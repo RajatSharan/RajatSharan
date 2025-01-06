@@ -1,13 +1,28 @@
 <h1 align="center">Hi 👋, I'm Rajat Sharan</h1>
-<h3 align="center">Rajat Sharan | Test Analyst | 9+ years EXP.|CSM®|ISTQB®|CSPO®|India</h3>
-
+<h3 align="center">💻 Automation Tester | 10 years of expertise in crafting robust frameworks for web, mobile, and APIs.
+		   ⚙️ Pro in Cypress, WebDriverIO, JavaScript,Playwright and CI/CD with CircleCI.
+                   🌐 Passionate about delivering seamless user experiences with efficient test solutions.
+                   📈 Agile advocate | API tester | Quality enthusiast.
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsharan&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsharan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatsharan" alt="rajatsharan" /></a> </p>
 
+## 👨‍💻 About Me
+- 🔭 I’m currently working on automation frameworks.
+- 🌱 I’m learning advanced CI/CD practices.
+- 👯 I’m looking to collaborate on open-source QA projects.
+- ⚡ Fun fact: I love debugging as much as coding!
+
+## 🛠️ Skills & Tools
+- **Languages**: JavaScript,Typescript
+- **Automation Tools**: Playwright,Cypress,WebdriverIO
+- **CI/CD**: Jenkins, CircleCI
+- **Performance Testing**: JMeter, Gatling
+
 <img align="right" width=400 alt="testing" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-- 🔭 I’m currently learning **Selenium Webdriver with PYTHON from Scratch + Frameworks**
+- 🔭 I’m currently learning **Playwright with Typescript from Scratch + Frameworks**
 
 - 👯 I’m looking to collaborate on 
 	<br>  -  <a href="https://github.com/RajatSharan/Cypress_Framework"> <i> <b>Cypress</b> Automation Frameworks </i> </a>
@@ -16,8 +31,6 @@
 	<br>  -  <a href="https://github.com/RajatSharan/Playwright_Automation"> <i> <b>Playwright</b> Automation Frameworks </i> </a>
 	<br>  -  <a href="https://github.com/RajatSharan/WebDriverIO-Framework"> <i> <b>WebDriverIO</b> Automation Frameworks </i> </a>
  	<br>  -  <a href="https://github.com/RajatSharan/Selenium-Webdriver-with-PYTHON-from-Scratch-Frameworks"> <i> <b>Selenium-Webdriver-with-PYTHON-from-Scratch-Frameworks</b> Automation Frameworks </i> </a>
-
-- 🤝 I’m looking for help with [Test Automation Frameworks Development (Web, Mobile and API)](https://github.com/RajatSharan?tab=repositories)
 
 - 👨‍💻 All of my projects are available at [https://github.com/RajatSharan?tab=repositories](https://github.com/RajatSharan?tab=repositories)
 
