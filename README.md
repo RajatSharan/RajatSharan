@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Sharan</h1>
-<h3 align="center">💻 Automation Tester | 10 years of expertise in crafting robust frameworks for web, mobile, and APIs.
-		   ⚙️ Pro in Cypress, WebDriverIO, JavaScript,Playwright and CI/CD with CircleCI.
-                   🌐 Passionate about delivering seamless user experiences with efficient test solutions.
-                   📈 Agile advocate | API tester | Quality enthusiast.
+<h3 align="center">💻 Automation Tester | 10 years of expertise in crafting robust frameworks for web, mobile, and APIs.<br>⚙️ Pro in Cypress, WebDriverIO, JavaScript,Playwright and CI/CD with CircleCI.<br>🌐 Passionate about delivering seamless user experiences with efficient test solutions.<br>📈 Agile advocate | API tester | Quality enthusiast.
 </h3>
 👨‍💻 About Me
 <br> 🔭 I’m currently working on automation frameworks.
