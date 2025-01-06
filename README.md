@@ -4,11 +4,11 @@
                    🌐 Passionate about delivering seamless user experiences with efficient test solutions.
                    📈 Agile advocate | API tester | Quality enthusiast.
 </h3>
-## 👨‍💻 About Me
-- 🔭 I’m currently working on automation frameworks.
-- 🌱 I’m learning advanced CI/CD practices.
-- 👯 I’m looking to collaborate on open-source QA projects.
-- ⚡ Fun fact: I love debugging as much as coding!
+👨‍💻 About Me
+<br> 🔭 I’m currently working on automation frameworks.
+<br> 🌱 I’m learning advanced CI/CD practices.
+<br> 👯 I’m looking to collaborate on open-source QA projects.
+<br> ⚡ Fun fact: I love debugging as much as coding!
 
 ## 🛠️ Skills & Tools
 - **Languages**: JavaScript,Typescript
@@ -16,9 +16,11 @@
 - **CI/CD**: Jenkins, CircleCI
 - **Performance Testing**: JMeter, Gatling
 
-- 🔭 I’m currently learning **Playwright with Typescript from Scratch + Frameworks**
+  <br>
 
-- 👯 I’m looking to collaborate on 
+🔭 I’m currently learning **Playwright with Typescript from Scratch + Frameworks**
+
+👯 I’m looking to collaborate on 
 	<br>  -  <a href="https://github.com/RajatSharan/Cypress_Framework"> <i> <b>Cypress</b> Automation Frameworks </i> </a>
 	<br>  -  <a href="https://github.com/RajatSharan/Cypress-Cucumber-frameworks"> <i> <b>Cypress-Cucumber-frameworks</b> Automation Frameworks </i> </a>
 	<br>  -  <a href="https://github.com/RajatSharan/Rest_Assured"> <i> <b>Rest_Assured</b> Automation Frameworks </i> </a>
@@ -26,11 +28,11 @@
 	<br>  -  <a href="https://github.com/RajatSharan/WebDriverIO-Framework"> <i> <b>WebDriverIO</b> Automation Frameworks </i> </a>
  	<br>  -  <a href="https://github.com/RajatSharan/Selenium-Webdriver-with-PYTHON-from-Scratch-Frameworks"> <i> <b>Selenium-Webdriver-with-PYTHON-from-Scratch-Frameworks</b> Automation Frameworks </i> </a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/RajatSharan?tab=repositories](https://github.com/RajatSharan?tab=repositories)
+👨‍💻 All of my projects are available at [https://github.com/RajatSharan?tab=repositories](https://github.com/RajatSharan?tab=repositories)
 
-- 📫 How to reach me **errajatsharan@gmail.com** and <a href="https://github.com/RajatSharan/"> <b> Rajat Github Page</b></a>
+📫 How to reach me **errajatsharan@gmail.com** and <a href="https://github.com/RajatSharan/"> <b> Rajat Github Page</b></a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1_mRBtjKVVnhRFO_8ILX3dY6YKoig1ZjU/view?usp=drive_link"><b>RajatSharan_Test Analyst</b></a>
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1_mRBtjKVVnhRFO_8ILX3dY6YKoig1ZjU/view?usp=drive_link"><b>RajatSharan_Test Analyst</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
