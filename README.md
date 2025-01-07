@@ -13,6 +13,7 @@
 ## 🛠️ Skills & Tools
 - **Languages**: JavaScript,Typescript
 - **Automation Tools**: Playwright,Cypress,WebdriverIO
+- **API Testing**: Postman,Apidog,Restassured
 - **CI/CD**: Jenkins, CircleCI
 - **Performance Testing**: JMeter, Gatling
 
@@ -22,6 +23,7 @@
 	<br>  -  <a href="https://github.com/RajatSharan/Cypress_Framework"> <i> <b>Cypress</b> Automation Frameworks </i> </a>
 	<br>  -  <a href="https://github.com/RajatSharan/Cypress-Cucumber-frameworks"> <i> <b>Cypress-Cucumber-frameworks</b> Automation Frameworks </i> </a>
 	<br>  -  <a href="https://github.com/RajatSharan/Rest_Assured"> <i> <b>Rest_Assured</b> Automation Frameworks </i> </a>
+        <br>  -  <a href="https://github.com/RajatSharan/API_Testing_with_Apidog-"><i>ApiDog</b> API_Testing_with_Apidog </i> </a>
 	<br>  -  <a href="https://github.com/RajatSharan/Playwright_Automation"> <i> <b>Playwright</b> Automation Frameworks </i> </a>
 	<br>  -  <a href="https://github.com/RajatSharan/WebDriverIO-Framework"> <i> <b>WebDriverIO</b> Automation Frameworks </i> </a>
  	<br>  -  <a href="https://github.com/RajatSharan/Selenium-Webdriver-with-PYTHON-from-Scratch-Frameworks"> <i> <b>Selenium-Webdriver-with-PYTHON-from-Scratch-Frameworks</b> Automation Frameworks </i> </a>
