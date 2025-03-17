@@ -7,7 +7,6 @@
 
 ## 👨‍💻 About Me
 <br> 🔭 I’m currently working on automation frameworks.
-<br> 🌱 I’m learning RAG-LLM Evaluation & Test Automation
 <br> ⚡ Fun fact: I love debugging as much as coding!
 
 ## 🛠️ Skills & Tools
