@@ -17,7 +17,7 @@
 - **CI/CD**: Jenkins, CircleCI
 - **Performance Testing**: JMeter, Gatling
 
-🔭 I’m currently learning **Playwright with Typescript from Scratch + Frameworks**
+🔭 I’m currently learning **Playwright PYTHON Automation Testing**
 
 👯 I’m looking to collaborate on 
         <br>  -  <a href="https://github.com/RajatSharan/Playwright_Automation"> <i> <b>Playwright</b> Automation Frameworks </i> </a>
