@@ -12,8 +12,8 @@
 <br>⚡ Fun fact: I love debugging challenges as much as coding solutions!
 
 <h2>🛠️ Skills & Tools</h2>
-- <b>Languages</b>: Java, JavaScript, TypeScript<br>
-- <b>Automation Tools</b>: Playwright, Cypress, WebDriverIO, Selenium<br>
+- <b>Languages</b>: Java, JavaScript <br>
+- <b>Automation Tools</b>: Playwright, Cypress, WebDriverIO <br>
 - <b>API Testing</b>: Rest Assured, Postman, Apidog<br>
 - <b>CI/CD</b>: Jenkins, CircleCI<br>
 - <b>Performance Testing</b>: JMeter, Gatling
