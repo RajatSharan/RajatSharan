@@ -10,9 +10,9 @@
 <br> ⚡ Fun fact: I love debugging as much as coding!
 
 ## 🛠️ Skills & Tools
-- **Languages**: JavaScript,Typescript
+- **Languages**: Java ,JavaScript,Typescript
 - **Automation Tools**: Playwright,Cypress,WebdriverIO
-- **API Testing**: Postman,Apidog,Restassured
+- **API Testing**: Restassured,Postman,Apidog
 - **CI/CD**: Jenkins, CircleCI
 - **Performance Testing**: JMeter, Gatling
 
