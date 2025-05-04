@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajat Sharan</h1>
 <h3 align="center">
-💻 Automation Tester | 11+ years of expertise in crafting robust frameworks for web, mobile, and API testing.<br>
+💻 Automation Tester | 10+ years of expertise in crafting robust frameworks for web, mobile, and API testing.<br>
 ⚙️ Proficient in Cypress, WebDriverIO, JavaScript, Playwright, and CI/CD with CircleCI.<br>
 🌐 Passionate about delivering seamless user experiences through efficient test automation solutions.<br>
 📈 Agile advocate | API testing expert | Quality engineering enthusiast.
@@ -41,7 +41,7 @@
 <h2>📫 Contact Me</h2>
 <br>Email: <b>errajatsharan@gmail.com</b><br>
 GitHub: <a href="https://github.com/RajatSharan/"><b>Rajat's GitHub Page</b></a><br>
-Resume: <a href="https://drive.google.com/file/d/1swgHz0_6Bpo8mM8hVj7xXQnrzOqFyrxT/view?usp=drive_link"><b>RajatSharan_Test Analyst</b></a>
+Resume: <a href="https://drive.google.com/file/d/1qtx3Tx9jQ1Ig2TwHlYVgbzOzYRDyViBN/view?usp=sharing"><b>RajatSharan_Test Analyst</b></a>
 
 <h2>🤝 Connect with Me</h2>
 <p>
