@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rajat Sharan</h1>
-<h3 align="center">
-💻 Automation Test Engineer | 10+ years of expertise building scalable automation frameworks for Web, Mobile, and API testing.<br>
-⚙️ Skilled in Cypress, WebDriverIO, Playwright, JavaScript, and CI/CD with CircleCI & GitHub Actions.<br>
-🌐 Dedicated to delivering seamless user experiences through robust, efficient automation solutions.<br>
-📈 Advocate for Agile Testing | Continuous Improvement | Clean, Maintainable Code.
-</h3>
+
+💻 <strong>Automation Test Engineer</strong> | 10+ years of expertise building scalable automation frameworks for <strong>Web | Mobile | API</strong> testing.
+
+⚙️ <strong>Skilled in:</strong> Cypress • WebDriverIO • Playwright • JavaScript • CI/CD (CircleCI, GitHub Actions)
+
+🌐 Dedicated to delivering seamless user experiences through <strong>robust, efficient automation solutions</strong>.
+
+📈 <strong>Advocate for:</strong> Agile Testing • Continuous Improvement • Clean, Maintainable Code
 
 <h2>👨‍💻 About Me</h2>
 <br>🔭 I’m currently working on automation frameworks for web, mobile, and API platforms.
