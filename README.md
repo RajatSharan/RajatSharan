@@ -32,7 +32,7 @@
 <br>- <a href="https://github.com/RajatSharan/Cypress-Cucumber-frameworks"><b>Cypress-Cucumber Framework</b></a>
 <br>- <a href="https://github.com/RajatSharan/WebDriverIO-Framework"><b>WebDriverIO Automation Framework</b></a>
 <br>- <a href="https://github.com/RajatSharan/Selenium-Webdriver-with-PYTHON-from-Scratch-Frameworks"><b>Selenium WebDriver Python Framework</b></a>
-<br>- <a href="https://github.com/RajatSharan/Rest_Assured"><b>REST Assured API Testing Framework</b></a>
+<br>- <a href="https://github.com/RajatSharan/Restassured-api-automation-framework"><b>REST Assured API Testing Framework</b></a>
 <br>- <a href="https://github.com/RajatSharan/API_Testing_with_Apidog-"><b>API Testing with Apidog</b></a>
 
 <h2>👨‍💻 View My Projects</h2>
