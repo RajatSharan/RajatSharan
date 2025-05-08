@@ -29,7 +29,7 @@
 
 
 <h2>👯 Collaboration Opportunities</h2>
-<br>- <a href="https://github.com/RajatSharan/Playwright_Automation"><b>Playwright Automation Framework</b></a>
+<br>- <a href="https://github.com/RajatSharan/RajatSharan-Ecommerce-Automation-Framework"><b>Playwright Automation Framework</b></a>
 <br>- <a href="https://github.com/RajatSharan/Cypress_Framework"><b>Cypress Automation Framework</b></a>
 <br>- <a href="https://github.com/RajatSharan/Cypress-Cucumber-frameworks"><b>Cypress-Cucumber Framework</b></a>
 <br>- <a href="https://github.com/RajatSharan/WebDriverIO-Framework"><b>WebDriverIO Automation Framework</b></a>
