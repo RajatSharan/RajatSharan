@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajat Sharan</h1>
 
-💻 <strong>Automation Test Engineer</strong> | 10+ years of expertise building scalable automation frameworks for <strong>Web | Mobile | API</strong> testing.
+💻 <strong>Automation Test Engineer</strong> | 11+ years of expertise building scalable automation frameworks for <strong>Web | Mobile | API</strong> testing.
 
 ⚙️ <strong>Skilled in:</strong> Cypress • WebDriverIO • Playwright • JavaScript • CI/CD (CircleCI, GitHub Actions)
 
