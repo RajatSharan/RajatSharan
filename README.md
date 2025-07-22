@@ -14,14 +14,14 @@
 <br>⚡ Fun fact: I love debugging challenges as much as coding solutions!
 
 <h2>🛠️ Skills & Tools</h2>
-- <b>Languages</b>: Java, JavaScript <br>
+- <b>Languages</b>: Java, JavaScript, Typescript <br>
 - <b>Automation Tools</b>: Playwright, Cypress, WebDriverIO <br>
 - <b>API Testing</b>: Rest Assured, Postman, Apidog<br>
 - <b>CI/CD</b>: Jenkins, CircleCI<br>
 - <b>Performance Testing</b>: JMeter, Gatling
 
 <h2>🔍 Currently Learning</h2>
-<br>🎓 Playwright with Python for advanced automation testing.
+<br>🎓 Playwright with Typescipt for advanced automation testing.
 <br>☁️ Exploring cloud-based testing with BrowserStack and Sauce Labs.
 <br>🐳 Learning Docker to containerize test environments for scalable test execution.
 <br>📊 Integrating advanced reporting tools like Allure and ExtentReports for actionable test insights.
