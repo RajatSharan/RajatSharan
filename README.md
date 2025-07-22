@@ -28,17 +28,54 @@
 <br>🔐 Gaining awareness of basic security testing practices (OWASP top 10).
 
 
-<h2>👯 Collaboration Opportunities</h2>
-<br>- <a href="https://github.com/RajatSharan/RajatSharan-Ecommerce-Automation-Framework"><b>Playwright Automation Framework</b></a>
-<br>- <a href="https://github.com/RajatSharan/Cypress_Framework"><b>Cypress Automation Framework</b></a>
-<br>- <a href="https://github.com/RajatSharan/Cypress-Cucumber-frameworks"><b>Cypress-Cucumber Framework</b></a>
-<br>- <a href="https://github.com/RajatSharan/WebDriverIO-Framework"><b>WebDriverIO Automation Framework</b></a>
-<br>- <a href="https://github.com/RajatSharan/Selenium-Webdriver-with-PYTHON-from-Scratch-Frameworks"><b>Selenium WebDriver Python Framework</b></a>
-<br>- <a href="https://github.com/RajatSharan/Restassured-api-automation-framework"><b>REST Assured API Testing Framework</b></a>
-<br>- <a href="https://github.com/RajatSharan/API_Testing_with_Apidog-"><b>API Testing with Apidog</b></a>
+# My Learning and Projects Overview
+
+## 🧪 Automation Testing Projects
+
+This section showcases my expertise across various automation testing domains.
+
+### Web Automation Frameworks
+
+Here are the web automation frameworks I've worked with:
+
+* [**Playwright Automation Framework**](https://github.com/RajatSharan/RajatSharan-Ecommerce-Automation-Framework)
+* [**Cypress Automation Framework**](https://github.com/RajatSharan/Cypress_Framework)
+* [**Cypress-Cucumber Framework**](https://github.com/RajatSharan/Cypress-Cucumber-frameworks)
+* [**WebDriverIO Automation Framework**](https://github.com/RajatSharan/WebDriverIO-Framework)
+* [**Selenium WebDriver Python Framework**](https://github.com/RajatSharan/Selenium-Webdriver-with-PYTHON-from-Scratch-Frameworks)
+
+### API Testing Frameworks
+
+These are the API testing tools and frameworks I've utilized:
+
+* [**REST Assured API Testing Framework**](https://github.com/RajatSharan/Restassured-api-automation-framework)
+* [**API Testing with Apidog**](https://github.com/RajatSharan/API_Testing_with_Apidog-)
+
+## 📚 Language Fundamentals & Deep Dives
+
+This section covers my learning journey and projects focused on core programming language concepts:
+
+* [**TypeScript Foundation Essentials**](https://github.com/RajatSharan/typescript-foundation-essentials)
+* [**Javascirpt Basics**](https://github.com/RajatSharan/Javascript-foundation-essentials)
+* [**JavaScript-Algorithms-and-Data-Structures**](https://github.com/RajatSharan/JavaScript-Algorithms-and-Data-Structures)
+* [**Python Basics**](https://github.com/RajatSharan/PythonBasics)
+
 
 <h2>👨‍💻 View My Projects</h2>
 <br>🚀 Explore all repositories: <a href="https://github.com/RajatSharan?tab=repositories"><b>GitHub Profile</b></a>
+
+## 🤝 Collaboration Opportunities
+
+I'm open to collaborating on projects related to:
+
+* Web Automation
+* API Automation
+* Visual Automation
+* Accessibility Automation
+* Network Interception & Mocking
+* Mobile Automation (Limited)
+
+---
 
 <h2>📫 Contact Me</h2>
 <br>Email: <b>errajatsharan@gmail.com</b><br>
