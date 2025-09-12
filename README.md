@@ -1,112 +1,105 @@
-<h1 align="center">Hi 👋, I'm Rajat Sharan</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Hi+there%2C+I'm+Rajat+Sharan!;I'm+an+Automation+Test+Engineer;Web+%7C+Mobile+%7C+API" alt="Typing SVG" />
+</div>
 
-💻 <strong>Automation Test Engineer</strong> | 11+ years of expertise building scalable automation frameworks for <strong>Web | Mobile | API</strong> testing.
-
-⚙️ <strong>Skilled in:</strong> Cypress • WebDriverIO • Playwright • JavaScript • CI/CD (CircleCI, GitHub Actions)
-
-🌐 Dedicated to delivering seamless user experiences through <strong>robust, efficient automation solutions</strong>.
-
-📈 <strong>Advocate for:</strong> Agile Testing • Continuous Improvement • Clean, Maintainable Code
-
-<h2>👨‍💻 About Me</h2>
-<br>🔭 I’m currently working on automation frameworks for web, mobile, and API platforms.
-<br>🚀 Focused on improving test coverage, reducing manual effort, and enabling continuous delivery.
-<br>⚡ Fun fact: I love debugging challenges as much as coding solutions!
-
-<h2>🛠️ Skills & Tools</h2>
-- <b>Languages</b>: Java, JavaScript, Typescript <br>
-- <b>Automation Tools</b>: Playwright, Cypress, WebDriverIO <br>
-- <b>API Testing</b>: Rest Assured, Postman, Apidog<br>
-- <b>CI/CD</b>: Jenkins, CircleCI<br>
-- <b>Performance Testing</b>: JMeter, Gatling
-
-<h2>🔍 Currently Learning</h2>
-<br>🎓 Playwright with Typescipt for advanced automation testing.
-<br>☁️ Exploring cloud-based testing with BrowserStack and Sauce Labs.
-<br>🐳 Learning Docker to containerize test environments for scalable test execution.
-<br>📊 Integrating advanced reporting tools like Allure and ExtentReports for actionable test insights.
-<br>🔐 Gaining awareness of basic security testing practices (OWASP top 10).
-
-
-# My Learning and Projects Overview
-
-## 🧪 Automation Testing Projects
-
-This section showcases my expertise across various automation testing domains.
-
-### Web Automation Frameworks
-
-Here are the web automation frameworks I've worked with:
-
-* [**Playwright Automation Framework**](https://github.com/RajatSharan/RajatSharan-Ecommerce-Automation-Framework)
-* [**Cypress Automation Framework**](https://github.com/RajatSharan/Cypress_Framework)
-* [**Cypress-Cucumber Framework**](https://github.com/RajatSharan/Cypress-Cucumber-frameworks)
-* [**WebDriverIO Automation Framework**](https://github.com/RajatSharan/WebDriverIO-Framework)
-* [**Selenium WebDriver Python Framework**](https://github.com/RajatSharan/Selenium-Webdriver-with-PYTHON-from-Scratch-Frameworks)
-
-### API Testing Frameworks
-
-These are the API testing tools and frameworks I've utilized:
-
-* [**REST Assured API Testing Framework**](https://github.com/RajatSharan/Restassured-api-automation-framework)
-* [**API Testing with Apidog**](https://github.com/RajatSharan/API_Testing_with_Apidog-)
-
-## 📚 Language Fundamentals & Deep Dives
-
-This section covers my learning journey and projects focused on core programming language concepts:
-
-* [**TypeScript Foundation Essentials**](https://github.com/RajatSharan/typescript-foundation-essentials)
-* [**Javascirpt Basics**](https://github.com/RajatSharan/Javascript-foundation-essentials)
-* [**JavaScript-Algorithms-and-Data-Structures**](https://github.com/RajatSharan/JavaScript-Algorithms-and-Data-Structures)
-* [**Python Basics**](https://github.com/RajatSharan/PythonBasics)
-
-
-<h2>👨‍💻 View My Projects</h2>
-<br>🚀 Explore all repositories: <a href="https://github.com/RajatSharan?tab=repositories"><b>GitHub Profile</b></a>
-
-## 🤝 Collaboration Opportunities
-
-I'm open to collaborating on projects related to:
-
-* Web Automation
-* API Automation
-* Visual Automation
-* Accessibility Automation
-* Network Interception & Mocking
-* Mobile Automation (Limited)
+<div align="center">
+  <h3>
+    A passionate Automation Test Engineer with 11+ years of expertise building scalable automation frameworks for Web, Mobile, and API testing.
+  </h3>
+</div>
 
 ---
 
-<h2>📫 Contact Me</h2>
-<br>Email: <b>errajatsharan@gmail.com</b><br>
-GitHub: <a href="https://github.com/RajatSharan/"><b>Rajat's GitHub Page</b></a><br>
-Resume: <a href="https://drive.google.com/file/d/1qtx3Tx9jQ1Ig2TwHlYVgbzOzYRDyViBN/view?usp=sharing"><b>RajatSharan_Test Analyst</b></a>
+### 👨‍💻 About Me
 
-<h2>🤝 Connect with Me</h2>
-<p>
-<a href="https://www.linkedin.com/in/rajat-sharan-15a19244/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
+* 🔭 I'm currently working on building and improving automation frameworks for web, mobile, and API platforms.
+* 🚀 I'm focused on improving test coverage, reducing manual effort, and enabling continuous delivery through robust and efficient automation solutions.
+* 📈 I'm an advocate for **Agile Testing**, **Continuous Improvement**, and **Clean, Maintainable Code**.
+* ⚡ Fun fact: I love debugging challenges as much as coding solutions!
 
-<h2>🔧 Languages & Tools</h2>
-<p>
-<a href="https://circleci.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CircleCI" width="40" height="40"/></a>
-<a href="https://www.cypress.io" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-<a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
-<a href="https://mochajs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-<a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsharan&show_icons=true&locale=en&layout=compact" alt="Top Languages"/></p>
+### 🛠️ Tech Stack & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatsharan&show_icons=true&locale=en" alt="GitHub Stats"/></p>
+| Category            | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages** | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a> |
+| **Test Automation** | <a href="https://www.cypress.io" target="_blank"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" /></a> <a href="https://playwright.dev/" target="_blank"><img src="https://img.shields.io/badge/Playwright-2F3841?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" /></a> <a href="https://webdriver.io" target="_blank"><img src="https://img.shields.io/badge/WebDriverIO-C0A584?style=for-the-badge&logo=webdriverio&logoColor=black" alt="WebDriverIO" /></a> <a href="https://www.selenium.dev" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" /></a> |
+| **API Testing** | <a href="https://www.rest-assured.io/" target="_blank"><img src="https://img.shields.io/badge/Rest_Assured-FF4500?style=for-the-badge&logo=testng&logoColor=white" alt="Rest Assured" /></a> <a href="https://www.postman.com" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a> <a href="https://apidog.com" target="_blank"><img src="https://img.shields.io/badge/Apidog-0062FF?style=for-the-badge&logo=apidog&logoColor=white" alt="Apidog" /></a> |
+| **CI/CD** | <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-239120?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /></a> <a href="https://www.jenkins.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /></a> <a href="https://circleci.com" target="_blank"><img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" /></a> |
+| **Databases** | <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></a> |
+| **Other Tools** | <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a> <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" /></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a> |
 
+---
+
+### 📚 My Core Skills & Learning
+
+- **[TypeScript Foundation Essentials](https://github.com/RajatSharan/typescript-foundation-essentials)**
+  > A repository dedicated to my deep dive into the fundamentals of TypeScript.
+
+- **[JavaScript Foundation Essentials](https://github.com/RajatSharan/Javascript-foundation-essentials)**
+  > My learning journey and practical examples covering core JavaScript concepts.
+
+- **[JavaScript-Algorithms-and-Data-Structures](https://github.com/RajatSharan/JavaScript-Algorithms-and-Data-Structures)**
+  > A collection of algorithms and data structures implemented in JavaScript, showcasing problem-solving skills.
+
+---
+
+### 🚀 Featured Projects
+
+- **[Playwright-TypeScript Framework](https://github.com/RajatSharan/playwright-typescript-framework)**
+  > A learning repository for building a scalable and maintainable test automation framework using Playwright with TypeScript. Covers setup, best practices, Page Object Model, fixtures, test data management, and CI/CD integrationt.
+- **[Playwright Automation Framework](https://github.com/RajatSharan/RajatSharan-Ecommerce-Automation-Framework)**
+  > A robust framework for e-commerce web automation using Playwright with TypeScript.
+- **[REST Assured API Framework](https://github.com/RajatSharan/Restassured-api-automation-framework)**
+  > A comprehensive API test automation solution built with Java and Rest Assured.
+- **[Cypress-Cucumber Framework](https://github.com/RajatSharan/Cypress-Cucumber-frameworks)**
+  > A BDD (Behavior-Driven Development) framework for web testing using Cypress.
+- **[WebdriverIO Automation Framework](https://github.com/RajatSharan/WebDriverIO-Framework)**
+  > WebDriverIO + Node.js -JavaScript UI Automation from Scratch 
+
+---
+
+### 📊 My GitHub Activity
+
+<div align="center">
+  <a href="https://github.com/RajatSharan">
+    <img src="https://github-readme-stats.vercel.app/api?username=rajatsharan&show_icons=true&locale=en&theme=tokyonight" alt="Rajat's GitHub Stats" />
+  </a>
+  <a href="https://github.com/RajatSharan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsharan&theme=tokyonight" alt="Rajat's GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/RajatSharan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsharan&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajatsharan&theme=react-dark" />
+</div>
+
+---
+
+### 🚀 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rajat-sharan-15a19244/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:errajatsharan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/RajatSharan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://drive.google.com/file/d/1qtx3Tx9jQ1Ig2TwHlYVgbzOzYRDyViBN/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-04D9FF?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+</div>
+
+---
+
+> ⭐️ From [RajatSharan](https://github.com/RajatSharan)
