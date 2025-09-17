@@ -66,10 +66,6 @@
   <a href="https://github.com/RajatSharan">
     <img src="https://github-readme-stats.vercel.app/api?username=rajatsharan&show_icons=true&locale=en&theme=tokyonight" alt="Rajat's GitHub Stats" />
   </a>
-  <a href="https://github.com/RajatSharan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsharan&theme=tokyonight" alt="Rajat's GitHub Streak" />
-  </a>
-</div>
 
 <div align="center">
   <a href="https://github.com/RajatSharan">
