@@ -86,7 +86,7 @@
   <a href="https://github.com/RajatSharan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://drive.google.com/file/d/1qtx3Tx9jQ1Ig2TwHlYVgbzOzYRDyViBN/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1hDro_iFTq2J8vz1CsPjw46tstIWCAHZE/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-04D9FF?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </div>
