@@ -64,11 +64,6 @@
 
 <div align="center">
   <a href="https://github.com/RajatSharan">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajatsharan&show_icons=true&locale=en&theme=tokyonight" alt="Rajat's GitHub Stats" />
-  </a>
-
-<div align="center">
-  <a href="https://github.com/RajatSharan">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsharan&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
